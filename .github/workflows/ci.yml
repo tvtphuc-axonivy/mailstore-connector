@@ -14,5 +14,3 @@ permissions:
 jobs:
   build:
     uses: tvtphuc-axonivy/github-workflows/.github/workflows/ci.yml@master
-    with:
-      cspellExtraWords: .github/cspell-extra-words.txt
