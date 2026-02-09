@@ -13,4 +13,6 @@ permissions:
 
 jobs:
   build:
-    uses: axonivy-market/github-workflows/.github/workflows/ci.yml@v6
+    uses: tvtphuc-axonivy/github-workflows/.github/workflows/ci.yml@master
+    with:
+      cspellExtraWords: .github/cspell-extra-words.txt
