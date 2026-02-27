@@ -13,6 +13,6 @@ permissions:
 
 jobs:
   build:
-    uses: tvtphuc-axonivy/github-workflows/.github/workflows/ci.yml@master
+    uses: axonivy-market/github-workflows/.github/workflows/ci.yml@feature/MARP-3642-How-to-handle-spelling-errors
     with:
       cspellExtraWords: .github/cspell-extra-words.txt

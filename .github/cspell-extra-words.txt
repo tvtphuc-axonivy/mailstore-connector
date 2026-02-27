@@ -1,2 +1,1 @@
-checkserveridentity, mailserver
-zure
+checkserveridentity, mailserver, zure
