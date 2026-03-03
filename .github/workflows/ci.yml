@@ -14,5 +14,3 @@ permissions:
 jobs:
   build:
     uses: axonivy-market/github-workflows/.github/workflows/ci.yml@feature/MARP-3642-How-to-handle-spelling-errors
-    with:
-      cspellConfigUrl: https://raw.githubusercontent.com/axonivy-market/github-workflows/feature/MARP-3642-How-to-handle-spelling-errors/cspell.json
