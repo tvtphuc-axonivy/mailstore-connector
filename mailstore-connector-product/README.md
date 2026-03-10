@@ -4,7 +4,7 @@ Unlock the potential of Axon Ivy's Mailstore connector to streamline your proces
 
 - Seamlessly integrates with both IMAP and POP3 mail stores.
 - Ensures data security through robust SSL encryption.
-- Accelerates your integration efforts with a user-friendly, ready-to-copy demo implementation.
+- Accelerates your integration efforts with a user-friendly, ready-to-copy demo implementation. phucdangtestne
 
 Please be aware that the comprehensive feature set is exclusively accessible through the IMAP email protocol, while POP3 provides only fundamental functionality.
 
