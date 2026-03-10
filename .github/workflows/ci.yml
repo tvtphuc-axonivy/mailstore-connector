@@ -14,3 +14,5 @@ permissions:
 jobs:
   build:
     uses: axonivy-market/github-workflows/.github/workflows/ci.yml@feature/MARP-3987-Improvements-How-to-handle-spelling-errors
+    with:
+      cspellExtraWords: .github/cspell-extra-words.txt
