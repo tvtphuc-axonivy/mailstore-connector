@@ -1,1 +1,0 @@
-checkserveridentity, mailserver, zure,microsoftonline
